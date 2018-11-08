@@ -3,6 +3,7 @@
   "parser": "babel-eslint",
   "plugins": ["fp", "unicorn", "sonarjs"],
   "rules": {
+    "no-bitwise": [0],
     "no-unused-expressions": [2, {"allowShortCircuit": true}],
     "arrow-parens": [2, "as-needed"],
     "brace-style": [2, "stroustrup"],
