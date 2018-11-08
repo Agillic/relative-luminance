@@ -45,7 +45,6 @@
     "eslint-plugin-unicorn": "^6.0.1",
     "husky": "^1.1.2",
     "jest": "^23.6.0",
-    "mocha-each": "^1.1.0",
     "regenerator-runtime": "^0.12.1"
   },
   "scripts": {
