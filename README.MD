@@ -41,11 +41,11 @@ Currently supported functions:
 - `isColorDark`
 - `isColorBright`
 
-All of the functions take one argument - an object with a string hex value as color property, e.g.:
+All of the functions take one argument &ndash; an object with a string hex value as color property, e.g.:
 
 ```javascript
 const argumentObject = {
-  color: 'FFFF00'
+  color: '#FFFF00'
 }
 ```
 
@@ -61,23 +61,23 @@ The above returns the following `0.7277058823529411`.
 
 ### isColorDark
 
-`isColorDark` returns true if the given color is perceived as a dark color.
+`isColorDark` returns `true` if the given color is perceived as a dark color.
 
 ```javascript
-const isColorDark = isColorDark({color: '0000FE'})
+const isColorDark = isColorDark({color: '#0000FE'})
 ```
 
 The above returns `true`.
 
 ### isColorBright
 
-`isColorBright` returns true if the given color is perceived as a bright color.
+`isColorBright` returns `true` if the given color is perceived as a bright color.
 
 ```javascript
-const isColorBright = isColorBright({color: 'FFFF00'})
+const isColorBright = isColorBright({color: '#FFFF00'})
 ```
 
-The above returns `true`
+The above returns `true`.
 
 ## Scripts
 
