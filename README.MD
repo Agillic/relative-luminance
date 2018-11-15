@@ -23,25 +23,20 @@ In order to import all the functions, use:
 import agillicRelativeLuminance from '@agillic/relative-luminance'
 ```
 
-or to import them separately:
-
-```javascript
-import {nameOfFunction} from '@agillic/relative-luminance'
-```
-
 Or for some good old nostalgia:
 
 ```javascript
 const agillicRelativeLuminance = require('@agillic/relative-luminance')
 ```
 
-Currently supported functions:
 
-- `getLightnessFromHexColor`
-- `isColorDark`
-- `isColorBright`
+You can also import the functions separately:
 
-All of the functions take one argument - an object with a string hex value as color property, e.g.:
+```javascript
+import {getLightnessFromHexColor, isColorDark, isColorBright} from '@agillic/relative-luminance'
+```
+
+All of these functions take one argument - an object with a string hex value as color property, e.g.:
 
 ```javascript
 const argumentObject = {
