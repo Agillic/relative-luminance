@@ -1,6 +1,6 @@
 {
   "name": "@agillic/relative-luminance",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "The relative luminance library of Agillic",
   "main": "build/index.js",
   "author": "Zivile Utkeviciute <zivile.utkeviciute@agillic.com>",
