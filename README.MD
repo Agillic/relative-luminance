@@ -1,3 +1,15 @@
+<p align="center">
+    <img src="https://www.agillic.com/wp-content/uploads/2016/02/Logo.svg"
+        height="170">
+</p>
+
+<p align="center">
+  <a href="https://gitlab.com/agillic-ci/relative-luminance/commits/master"><img alt="pipeline status" src="https://gitlab.com/agillic-ci/relative-luminance/badges/master/pipeline.svg" /></a>
+</p>
+<p align="center">
+  <a href="https://gitlab.com/agillic-ci/relative-luminance/commits/master"><img alt="coverage report" src="https://gitlab.com/agillic-ci/relative-luminance/badges/master/coverage.svg" /></a>
+</p>
+
 # Agillic Relative Luminance
 
 Make sure your components are properly visible using relative luminance!
@@ -6,13 +18,13 @@ Made with :heart: by Agillic
 ## Installation
 
 ```sh
-npm install --save-dev @agillic/relative-luminance
+npm install --save @agillic/relative-luminance
 ```
 
 Or if you're using `yarn`
 
 ```sh
-yarn add --dev @agillic/relative-luminance
+yarn add @agillic/relative-luminance
 ```
 
 ## Usage
