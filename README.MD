@@ -1,3 +1,15 @@
+<p align="center">
+    <img src="https://www.agillic.com/wp-content/uploads/2016/02/Logo.svg"
+        height="170">
+</p>
+
+<p align="center">
+  <a href="https://gitlab.com/agillic-ci/relative-luminance/commits/develop"><img alt="pipeline status" src="https://gitlab.com/agillic-ci/relative-luminance/badges/develop/pipeline.svg" /></a>
+</p>
+<p align="center">
+  <a href="https://gitlab.com/agillic-ci/relative-luminance/commits/develop"><img alt="coverage report" src="https://gitlab.com/agillic-ci/relative-luminance/badges/develop/coverage.svg" /></a>
+</p>
+
 # Agillic Relative Luminance
 
 Make sure your components are properly visible using relative luminance!
