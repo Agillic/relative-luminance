@@ -6,13 +6,13 @@ Made with :heart: by Agillic
 ## Installation
 
 ```sh
-npm install --save-dev @agillic/relative-luminance
+npm install --save @agillic/relative-luminance
 ```
 
 Or if you're using `yarn`
 
 ```sh
-yarn add --dev @agillic/relative-luminance
+yarn add @agillic/relative-luminance
 ```
 
 ## Usage
