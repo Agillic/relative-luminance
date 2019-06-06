@@ -1,6 +1,6 @@
 {
   "name": "@agillic/relative-luminance",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "The relative luminance library of Agillic",
   "main": "build/index.js",
   "author": "Zivile Utkeviciute <zivile.utkeviciute@agillic.com>",
@@ -58,7 +58,6 @@
     "lint": "node ./node_modules/eslint/bin/eslint.js src/",
     "test": "jest --watch",
     "help": "node helpMessageScript.js",
-
     "test:run": "jest",
     "test:coverage": "jest --coverage"
   },
